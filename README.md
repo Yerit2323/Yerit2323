@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>_Hello_World;>_Soy_Yeritzon_Salinas;>_Software_Developer" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/3d/80/46/3d8046b96eb9d436152a4666d92ef189.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_Hello_World;>_Soy_Yeritzon_Salinas;>_Software_Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,6 +16,7 @@
   "username": "Yerit2323",
   "role": "Desarrollador",
   "status": "Compilando código y construyendo ideas...",
+  "theme": "Dark Blue / Cyber",
   "passions": ["Automatización", "Código limpio", "Resolver problemas lógicos"]
 }
 ```
@@ -35,5 +40,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=Keep%20Coding...&fontSize=25&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=120&section=footer&text=Keep%20Coding...&fontSize=25&fontColor=00FFFF&fontAlignY=50" />
 </div>
